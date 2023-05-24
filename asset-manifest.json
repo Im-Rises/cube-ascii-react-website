@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/cube-ascii-react-website/static/css/main.50a68434.css",
+    "main.js": "/cube-ascii-react-website/static/js/main.6331cc47.js",
+    "static/js/787.eaf00eec.chunk.js": "/cube-ascii-react-website/static/js/787.eaf00eec.chunk.js",
+    "static/media/github.svg": "/cube-ascii-react-website/static/media/github.255db585f8a0eb28a1e4deb91bde207d.svg",
+    "index.html": "/cube-ascii-react-website/index.html",
+    "static/media/copy.svg": "/cube-ascii-react-website/static/media/copy.dcb6bf73de369d114f61833d940384c1.svg",
+    "main.50a68434.css.map": "/cube-ascii-react-website/static/css/main.50a68434.css.map",
+    "main.6331cc47.js.map": "/cube-ascii-react-website/static/js/main.6331cc47.js.map",
+    "787.eaf00eec.chunk.js.map": "/cube-ascii-react-website/static/js/787.eaf00eec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50a68434.css",
+    "static/js/main.6331cc47.js"
+  ]
+}
